@@ -1,0 +1,1 @@
+Connect-AzAccount -Tenant d1327e8a-1ae9-415e-b246-7bd459ecaa53 -UseDeviceAuthentication
